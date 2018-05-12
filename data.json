@@ -1,0 +1,252 @@
+[
+    {
+        "id": "1",
+        "name": "cilok",
+        "slug": "cilok",
+        "description": "Cilok adalah sebuah makanan khas Jawa Barat yang terbuat dari tapioka yang kenyal dengan tambahan bumbu pelengkap seperti sambal kacang, kecap, dan saus. Cilok bentuknya bulat-bulat seperti bakso, hanya saja berbeda bahan dasarnya. Terdapat telur atau daging cincang di dalamnya, karena terbuat dari bahan dasar tapioka maka cilok terasa kenyal saat dikonsumsi.",
+        "image": "./images/cilok.jpg",
+        "images": ["./images/cilok.jpg","./images/cilok.jpg","./images/cilok.jpg"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "2",
+        "name": "Sempol",
+        "slug":"sempol",
+        "description": "Jajanan berbahan dasar tepung dengan ayam atau perasa ayam yang dicelup dengan telur lalu digoreng ini telah menjadi favorit warga malang bahkan saat ini kuliner khas malang ini sudah ada di beberapa kota lainnya , seperti di Banyuwangi.",
+        "image": "./images/sempol.jpg",
+        "images": ["./images/sempol.jpg","./images/sempol.jpg","./images/sempol.jpg"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "3",
+        "name": "Gethuk",
+        "slug":"gethuk",
+        "description": "Gethuk adalah makanan ringan yang terbuat dari ketela pohon atau singkong . Gethuk merupakan makanan yang mudah ditemukan di jawa tengah dan jawa timur.Untuk penghidangan biasanya ditaburi parutan buah kelapa .",
+        "image": "./images/gethuk.jpg",
+        "images": ["./images/gethuk.jpg","./images/gethuk.jpg","./images/gethuk.jpg"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "4",
+        "name": "Martabak Manis",
+        "slug":"martabak-manis",
+        "description": "Martabak manis biasanya disebut juga terang bulan , panganan sejenis kue dadar yang biasanya di jajakan di pinggir jalan di seluruh Indonesia.",
+        "image": "./images/martabakmanis.jpg",
+        "images": ["./images/martabakmanis.jpg","./images/martabakmanis.jpg","./images/martabakmanis.jpg"],
+        "type": "Food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "5",
+        "name": "Bakpia",
+        "slug":"bakpia",
+        "description": "Bakpia adalah makanan yang terbuat dari campuran kacang hijau dengan gula yang dibungkus dengan tepung, lalu dipanggang . Istilah bakpia sendiri adalah istilah dari dialekHokian yaitu dari kata "Bak" yang berarti daging babi dan "pia" yang berarti kue .",
+        "image": "./images/bakpia.jpg",
+        "images": ["./images/bakpia.jpg","./images/bakpia.jpg","./images/bakpia.jpg"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "6",
+        "name": "Mochi",
+        "slug":"mochi",
+        "description": "Mochi adalah kue yang terbuat dari beras ketan, ditumbuk sehingga lembut dan lengket, kemudian dibentuk menjadi bulat. Di Jepang kue ini sering di buat dan dimakan pada saat perayaan tradisional. Mochitsuki atau perayaan tahun baru jepang.",
+        "image": "./images/mochi.jpg",
+        "images": ["./images/mochi.jpg","./images/mochi.jpg","./images/mochi.jpg"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "7",
+        "name": "Rujak Buah",
+        "slug":"rujak-buah",
+        "description": "Rujak buah adalah makanan tradisional yang biasanya terbuat dari campuran berbagai macam sayuran atau buah dan dibubuhi bumbu kacang atau kuah . Rujak mudah ditemukan di Indonesia , banyak yang menjual secara keliling di pinggir jalan.",
+        "image": "./images/rujakbuah.jpg",
+        "images": ["./images/rujakbuah.jpg","./images/rujakbuah.jpg","./images/rujakbuah.jpg"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "8",
+        "name": "Martabak Telor",
+        "slug":"martabak-telor",
+        "description": "Martabak berarti Terlipat merupakan sajian yang biasanya ditemukan di Arab saudi . Di Indonesia ada dua jenis martabak yaitu martabak asin / telur yang terbuat dari campuran telur dan daging kemudian digoreng , biasanya ada di pinggir jalan dan harganya pun terjangkau.",
+        "image": "./images/martabaktelor.jpg",
+        "images": ["./images/martabaktelor.jpg","./images/martabaktelor.jpg","./images/martabaktelor.jpg"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "9",
+        "name": "Colenak",
+        "slug":"colenak",
+        "description": "Colenak atau dikenal juga dengan tape bakar adalah nama yang diberikan pada kudapan yang dibuat dari singkong yang dibakar di santap dengan di cocol kan pada gula jawa cair yang dicampur dengan serutan kelapa. Kudapan ini berasal dari bandung .",
+        "image": "./images/colenak.jpg",
+        "images": ["./images/colenak.jpg","./images/colenak.jpg","./images/colenak.jpg"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "10",
+        "name": "Serabi",
+        "slug":"serabi",
+        "description": "Merupakan jajanan tradisional yang berasal dari Indonesia ada dua jenis serabi , yaitu serabi manis yang menggunakan kinca (gula cair)dan serabi asin dengan tanpa taburan oncom yang telah dibumbui diatasnya . Di Bandung serabi biasanya di jajakan di pagi hari dan dimasak menggunakan tungku sehingga menghasilkan rasa yang khas.",
+        "image": "./images/serabi.jpg",
+        "images": ["./images/serabi.jpg","./images/serabi.jpg","./images/serabi.jpg"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "11",
+        "name": "Bajigur",
+        "slug":"bajigur",
+        "description": "Manis dan hangat, rasa minuman yang cocok diminum pas dingin-dingin ini, namanya Bandrek. Bahan dasar bandrek adalah gula aren dan santan. Untuk menambahkan kenikmatan rasa, bajigur ditambah sedikit bubuk vanili, jahe dan garam.",
+        "image": "./images/Bajigur.jpg",
+        "images": ["./images/Bajigur.jpg","./images/Bajigur.jpg","./images/Bajigur.jpg"],
+        "type": "baverage",
+        "category": "indonesian-baverage"
+    },
+    {
+        "id": "12",
+        "name": "Skoteng",
+        "slug":"skoteng",
+        "description": "Minuman yang lahir di Jawa Tengah ini, ternyata merupakan adaptasi atau peranakan dan kembangan dari tradisi Cina dan Jawa. Rasa hangat yang dimiliki sekoteng berasal dari gula merah dan jahe yang direbus. Masyarakat Jawa menyebut sekoteng “nyokot weteng” yang artinya “menggigit perut” ini karena rasa hangat yang terasa itu tadi guys!.",
+        "image": "./images/sekoteng.jpg",
+        "images": ["./images/sekoteng.jpg","./images/sekoteng.jpg","./images/sekoteng.jpg"],
+        "type": "baverage",
+        "category": "indonesian-baverage"
+    },
+    {
+        "id": "13",
+        "name": "Wedang Ronde",
+        "slug": "wedang-ronde",
+        "description": "Wedang ronde paling enak disantap saat udara dingin. Minuman hangat yang populer di Jawa ini biasanya dijual dengan gerobak. Minuman yang identik di Jawa ini ternyata makanan tradisional dari Cina, Tangyuan. Wedang ronde ini juga merupakan modifikasi dari tangyuan.",
+        "image": "./images/ronde.jpg",
+        "images": ["./images/ronde.jpg","./images/ronde.jpg","./images/ronde.jpg"],
+        "type": "baverege",
+        "category": "indonesian-baverage"
+    },
+    {
+        "id": "14",
+        "name": "Selendang Mayang",
+        "slug": "selendang-mayang",
+        "description": "Minuman khas betawi ini jarang ditemui karena dikalangan masyarakat Betawi dianggap minuman kuno.Selendang mayang biasanya disajikan ketika acara tertentu, saat lebaran, acara keluarga, arisan dan lainnya. Bahan dasar pembuatan selendang mayang adalah tepung beras. Sedangkan kuahnya terbuat dai daun pandan, gula merah, garam, gula dan air santan. Minuman ini selain menghilangkan dahaga pun mengenyangkan karena porsinya yang cukup banyak.",
+        "image": "./images/selendang.jpg",
+        "images":[ "./images/selendang.jpg","./images/selendang.jpg","./images/selendang.jpg"],
+        "type": "baverege",
+        "category": "indonesian-baverage"
+    },
+    {
+        "id": "15",
+        "name": "Es Doger",
+        "slug": "es-doger",
+        "description": "Minuman yang enak disantap saat hari panas ini memang mudah dijumpai di mana pun. Minuman ini terdiri dari alpukat, kelapa muda, nangka, cincau, susu kental manis dan es. Banyak pedagang kaki lima yang berjualan di pinggir trotoar , harganya pun sangat terjangkau.",
+        "image": "./images/es%20doger.jpg",
+        "images": [ "./images/es%20doger.jpg","./images/es%20doger.jpg","./images/es%20doger.jpg"],
+        "type": "baverege",
+        "category": "indonesian-baverege",
+    },
+    {
+        "id": "16",
+        "name": "Sikye",
+        "slug": "sikye",
+        "description": "Sikhye adalah minuman beras tradisional Korea yang manis seperti tradisional - sangat manis, pada kenyataannya, itu sering disajikan sebagai makanan penutup! Minuman Korea ini mengandung beras yang dimasak, yang memberikan tekstur yang menarik saat Anda sampai ke dasar, dan telah disajikan di Korea selama berabad-abad sebagai akhir tradisional untuk makan.",
+        "image": "./images/sikhye.jpg",
+        "images":[ "./images/sikhye.jpg","./images/sikhye.jpg","./images/sikhye.jpg"],
+        "type": "baverage",
+        "category": "korean-baverage"
+    },
+    {
+        "id": "17",
+        "name": "Omija Tea",
+        "slug": "omija-tea",
+        "description": "The omija berry dinamai karena perpaduan unik dari rasa (‘omija’ secara harfiah diterjemahkan menjadi lima-rasa), jadi tidak mengherankan bahwa teh yang dibuat dari omija berry juga serbaguna. Meskipun dapat dinikmati sendiri atau dengan madu sebagai pemanis, teh omija juga bisa dibumbui dengan kacang hijau atau bunga untuk mengubahnya menjadi berbagai pukulan.",
+        "image": "./images/omija-tea.jpg",
+        "images":[ "./images/omija-tea.jpg","./images/omija-tea.jpg","./images/omija-tea.jpg"],
+        "type": "baverage",
+        "category": "korean-baverage"
+    },
+    {
+        "id": "18",
+        "name": "Chrysanthemum Tea",
+        "slug": "chrysanthemum-tea",
+        "description": "Teh krisan adalah minuman Korea yang populer (dan luar biasa indah) yang disukai orang banyak karena alasan yang bagus. Untuk membuat teh yang sangat menarik ini, bunga kering direndam dalam madu selama beberapa bulan dan kemudian diseduh dengan air panas, menghasilkan teh ringan dan sedikit manis yang penuh dengan bunga-bunga.",
+        "image": "./images/tea.jpg",
+        "images":[ "./images/tea.jpg","./images/tea.jpg","./images/tea.jpg"],
+        "type": "baverage",
+        "category": "korean-baverage"
+    },
+    {
+        "id": "19",
+        "name": "Misugaru",
+        "slug": "misugaru",
+        "description": "Misagura adalah minuman yang protein shake dingin, misagura banyak variasi rasa dapat mencampur dan mencocokan biji dan kacang kacangan sendiri. Misugaru mudah ditemukan saat Anda bepergian dan keluar, tetapi juga mudah berbaur di rumah jika Anda memiliki blender, es, dan agen pemanis seperti madu atau sirup maple. Karena kandungan proteinnya yang tinggi, misugaru adalah pengganti makanan yang lezat.",
+        "image": "./images/misugaru.jpg",
+        "images":[ "./images/misugaru.jpg","./images/misugaru.jpg","./images/misugaru.jpg"],
+        "type": "baverage",
+        "category": "korean-baverage"
+    },
+    {
+        "id": "20",
+        "name": "Sujeonggowa",
+        "slug": "sujeonggowa",
+        "description": "Sujeonggwa adalah bagian yang sama dengan makanan pencuci mulut dan minuman, dan menyajikan campuran kayu manis, gula merah, jahe, dan kesemek yang lezat yang datang bersama-sama untuk membuat rasa manis yang lezat yang tidak seperti yang lain. Sujeonggwa rasanya seperti musim Jatuh dalam cangkir, tetapi disajikan dingin sehingga Anda juga dapat menikmatinya dengan sangat nyaman melalui musim semi dan musim panas.",
+        "image": "./images/sujeonggowa.jpg",
+        "images":[ "./images/sujeonggowa.jpg","./images/sujeonggowa.jpg","./images/sujeonggowa.jpg"],
+        "type": "baverage",
+        "category": "korean-baverage"
+    },
+    {
+        "id": "21",
+        "name": "Chong Shi Cha",
+        "slug": "chong-shi-cha",
+        "description": "Chong Shi Cha yaitu teh khas negeri China yang diproduksi di provinsi Guangxi dan menjadi salah satu teh tradisional orang China yang paling populer dan termahal di dunia. Sejak dulu teh ini dinobatkan sebagai teh termahal di dunia meskipun rasa unik dan lebih berfungsi sebagai minuman herbal karena proses pembuatannya yang tidak mudah.",
+        "image": "./images/chong%20shi%20cha.png",
+        "images":[ "./images/chong%20shi%20cha.png","./images/chong%20shi%20cha.png","./images/chong%20shi%20cha.png"],
+        "type": "beverage",
+        "category": "chinese-baverage"
+    },
+    {
+        "id": "22",
+        "name": "Naicha",
+        "slug": "naicha",
+        "description": "Naicha adalah minuman berkhasiat , khasiat minuman ini sangat banyak, terutama menghangatkan badan dan menambah energi bagi tubuh. Minuman ini juga sedikitt menyenangkan dan sangat baik untuk pertumbuhan. Ada pula yamg menambahkan bahan bahan alami lain seprti gingseng dan telur untuk menambah khasiatnya",
+        "image": "./images/naicha.jpg",
+        "images":[ "./images/naicha.jpg","./images/naicha.jpg","./images/naicha.jpg"],
+        "type": "beverage",
+        "category": "chinese-beverage"
+    },
+    {
+        "id": "23",
+        "name": "Teh Bunga Mekar",
+        "slug": "teh-bunga-mekar",
+        "description": "Minuman khas China ini adalah secangkir karya seni yang menyuguhkan pengalaman unik saat menyisip teh panas. Pada dasarnya minuman ini tak berbeda jauh dengan teh China lainnya. Terbuat dari campuran daun teh dan bunga dikeringkan, yang menjadikannya unik adalh bentuk teh yang tampak seperti rangkaian bunga saat diseduh.",
+        "image": "./images/teh%20bunga%20mekar.jpg",
+        "images":[ "./images/teh%20bunga%20mekar.jpg","./images/teh%20bunga%20mekar.jpg","./images/teh%20bunga%20mekar.jpg"],
+        "type": "beverage",
+        "category": "chinese-beverage"
+    },
+    {
+        "id": "24",
+        "name": "Soy Milk",
+        "slug": "soy-milk",
+        "description": "Soy Milk adalah minuman susu kedelai dari hewan namun penuh nialai gizi. Susu kacang kedelai adalah semacam minuman yang dibuat dari kacang kuning, mendapat namanya karena ini berwarna putih kekuningan mirip dengan susu.",
+        "image": "./images/soy-milk.jpg",
+        "images":[ "./images/soy-milk.jpg","./images/soy-milk.jpg","./images/soy-milk.jpg"],
+        "type": "beverages",
+        "category": "chinese-beverage"
+    },
+    {
+        "id": "25",
+        "name": "Tieguanyin",
+        "slug": "tieguanyin",
+        "description": "Minuman ini biasa disebut dengan teh oolong merupakan salah satu minuman tradisional yang berasal dari china. Dimana teh ini dapat diminum di kala antai bersama keluarga dan teman. terlepas dari hal tersebut teh oolong ternyata memberikan beragaram khasiat dan manfaat untuk kesehatan. Teh oolong terbuat dari daun kuncup dan batang dari tanaman Camellia sinensis yg diolah dengan cara difermentasi dan dioksidasi sehingga membuatnya menjadi seperti perpaduan antara teh hijau dan daun teh hitam.",
+        "image": "./images/tieguanyin.jpg",
+        "images":[ "./images/tieguanyin.jpg","./images/tieguanyin.jpg","./images/tieguanyin.jpg"],
+        "type": "beverage",
+        "category": "chinese-beverage"
+    }
+]
