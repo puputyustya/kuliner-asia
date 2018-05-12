@@ -7,6 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="css/uikit.min.css" />
 	<script src="js/uikit.min.js"></script>
+	<script src="js/jquery.min.js"></script>
 	<script src="js/uikit-icons.min.js"></script>
 </head>
 
@@ -272,6 +273,28 @@
 				<p>Terimakasih telah berkunjung :) Jika ada saran dan kritik silahkan tulis dibawah</p>
 			</div>
 		</article>
+
+		<script>
+			(function () {
+				function getData() {
+					$.ajax({
+						type: "GET",
+						url: "/data.json",
+						dataType: 'application/json',
+						contentType: "json",
+						success: function (xhr) {
+							console.log(xhr);
+						},
+						error: function (xhr, status, error) {
+							console.log(xhr);
+							console.log(status);
+							console.log(error);
+						}
+					});
+				}
+				getData();
+			})();
+		</script>
 </body>
 
 </html>
