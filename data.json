@@ -43,7 +43,7 @@
         "id": "5",
         "name": "Bakpia",
         "slug":"bakpia",
-        "description": "Bakpia adalah makanan yang terbuat dari campuran kacang hijau dengan gula yang dibungkus dengan tepung, lalu dipanggang . Istilah bakpia sendiri adalah istilah dari dialekHokian yaitu dari kata "Bak" yang berarti daging babi dan "pia" yang berarti kue .",
+        "description": "Bakpia adalah makanan yang terbuat dari campuran kacang hijau dengan gula yang dibungkus dengan tepung, lalu dipanggang . Istilah bakpia sendiri adalah istilah dari dialekHokian yaitu dari kata \"Bak\" yang berarti daging babi dan \"pia\" yang berarti kue .",
         "image": "./images/bakpia.jpg",
         "images": ["./images/bakpia.jpg","./images/bakpia.jpg","./images/bakpia.jpg"],
         "type": "food",
@@ -147,7 +147,7 @@
         "image": "./images/es%20doger.jpg",
         "images": [ "./images/es%20doger.jpg","./images/es%20doger.jpg","./images/es%20doger.jpg"],
         "type": "baverege",
-        "category": "indonesian-baverege",
+        "category": "indonesian-baverege"
     },
     {
         "id": "16",
