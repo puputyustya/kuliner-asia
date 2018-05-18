@@ -6,7 +6,7 @@
         "description": "Cilok adalah sebuah makanan khas Jawa Barat yang terbuat dari tapioka yang kenyal dengan tambahan bumbu pelengkap seperti sambal kacang, kecap, dan saus. Cilok bentuknya bulat-bulat seperti bakso, hanya saja berbeda bahan dasarnya. Terdapat telur atau daging cincang di dalamnya, karena terbuat dari bahan dasar tapioka maka cilok terasa kenyal saat dikonsumsi.",
         "image": "./images/cilok.jpg",
         "images": ["./images/cilok.jpg","./images/cilok.jpg","./images/cilok.jpg"],
-        "type": "food",
+        "type": "jajanan",
         "category": "indonesian-food"
     },
     {
@@ -16,7 +16,7 @@
         "description": "Jajanan berbahan dasar tepung dengan ayam atau perasa ayam yang dicelup dengan telur lalu digoreng ini telah menjadi favorit warga malang bahkan saat ini kuliner khas malang ini sudah ada di beberapa kota lainnya , seperti di Banyuwangi.",
         "image": "./images/sempol.jpg",
         "images": ["./images/sempol.jpg","./images/sempol.jpg","./images/sempol.jpg"],
-        "type": "food",
+        "type": "jajanan",
         "category": "indonesian-food"
     },
     {
@@ -26,7 +26,7 @@
         "description": "Gethuk adalah makanan ringan yang terbuat dari ketela pohon atau singkong . Gethuk merupakan makanan yang mudah ditemukan di jawa tengah dan jawa timur.Untuk penghidangan biasanya ditaburi parutan buah kelapa .",
         "image": "./images/gethuk.jpg",
         "images": ["./images/gethuk.jpg","./images/gethuk.jpg","./images/gethuk.jpg"],
-        "type": "food",
+        "type": "jajanan",
         "category": "indonesian-food"
     },
     {
@@ -36,7 +36,7 @@
         "description": "Martabak manis biasanya disebut juga terang bulan , panganan sejenis kue dadar yang biasanya di jajakan di pinggir jalan di seluruh Indonesia.",
         "image": "./images/martabakmanis.jpg",
         "images": ["./images/martabakmanis.jpg","./images/martabakmanis.jpg","./images/martabakmanis.jpg"],
-        "type": "Food",
+        "type": "jajanan",
         "category": "indonesian-food"
     },
     {
@@ -46,7 +46,7 @@
         "description": "Bakpia adalah makanan yang terbuat dari campuran kacang hijau dengan gula yang dibungkus dengan tepung, lalu dipanggang . Istilah bakpia sendiri adalah istilah dari dialekHokian yaitu dari kata \"Bak\" yang berarti daging babi dan \"pia\" yang berarti kue .",
         "image": "./images/bakpia.jpg",
         "images": ["./images/bakpia.jpg","./images/bakpia.jpg","./images/bakpia.jpg"],
-        "type": "food",
+        "type": "jajanan",
         "category": "indonesian-food"
     },
     {
@@ -56,7 +56,7 @@
         "description": "Mochi adalah kue yang terbuat dari beras ketan, ditumbuk sehingga lembut dan lengket, kemudian dibentuk menjadi bulat. Di Jepang kue ini sering di buat dan dimakan pada saat perayaan tradisional. Mochitsuki atau perayaan tahun baru jepang.",
         "image": "./images/mochi.jpg",
         "images": ["./images/mochi.jpg","./images/mochi.jpg","./images/mochi.jpg"],
-        "type": "food",
+        "type": "jajanan",
         "category": "indonesian-food"
     },
     {
@@ -66,7 +66,7 @@
         "description": "Rujak buah adalah makanan tradisional yang biasanya terbuat dari campuran berbagai macam sayuran atau buah dan dibubuhi bumbu kacang atau kuah . Rujak mudah ditemukan di Indonesia , banyak yang menjual secara keliling di pinggir jalan.",
         "image": "./images/rujakbuah.jpg",
         "images": ["./images/rujakbuah.jpg","./images/rujakbuah.jpg","./images/rujakbuah.jpg"],
-        "type": "food",
+        "type": "jajanan",
         "category": "indonesian-food"
     },
     {
@@ -76,7 +76,7 @@
         "description": "Martabak berarti Terlipat merupakan sajian yang biasanya ditemukan di Arab saudi . Di Indonesia ada dua jenis martabak yaitu martabak asin / telur yang terbuat dari campuran telur dan daging kemudian digoreng , biasanya ada di pinggir jalan dan harganya pun terjangkau.",
         "image": "./images/martabaktelor.jpg",
         "images": ["./images/martabaktelor.jpg","./images/martabaktelor.jpg","./images/martabaktelor.jpg"],
-        "type": "food",
+        "type": "jajanan",
         "category": "indonesian-food"
     },
     {
@@ -86,7 +86,7 @@
         "description": "Colenak atau dikenal juga dengan tape bakar adalah nama yang diberikan pada kudapan yang dibuat dari singkong yang dibakar di santap dengan di cocol kan pada gula jawa cair yang dicampur dengan serutan kelapa. Kudapan ini berasal dari bandung .",
         "image": "./images/colenak.jpg",
         "images": ["./images/colenak.jpg","./images/colenak.jpg","./images/colenak.jpg"],
-        "type": "food",
+        "type": "jajanan",
         "category": "indonesian-food"
     },
     {
@@ -96,7 +96,7 @@
         "description": "Merupakan jajanan tradisional yang berasal dari Indonesia ada dua jenis serabi , yaitu serabi manis yang menggunakan kinca (gula cair)dan serabi asin dengan tanpa taburan oncom yang telah dibumbui diatasnya . Di Bandung serabi biasanya di jajakan di pagi hari dan dimasak menggunakan tungku sehingga menghasilkan rasa yang khas.",
         "image": "./images/serabi.jpg",
         "images": ["./images/serabi.jpg","./images/serabi.jpg","./images/serabi.jpg"],
-        "type": "food",
+        "type": "jajanan",
         "category": "indonesian-food"
     },
     {
@@ -106,8 +106,8 @@
         "description": "Manis dan hangat, rasa minuman yang cocok diminum pas dingin-dingin ini, namanya Bandrek. Bahan dasar bandrek adalah gula aren dan santan. Untuk menambahkan kenikmatan rasa, bajigur ditambah sedikit bubuk vanili, jahe dan garam.",
         "image": "./images/Bajigur.jpg",
         "images": ["./images/Bajigur.jpg","./images/Bajigur.jpg","./images/Bajigur.jpg"],
-        "type": "baverage",
-        "category": "indonesian-baverage"
+        "type": "beverage",
+        "category": "indonesian-beverage"
     },
     {
         "id": "12",
@@ -116,8 +116,8 @@
         "description": "Minuman yang lahir di Jawa Tengah ini, ternyata merupakan adaptasi atau peranakan dan kembangan dari tradisi Cina dan Jawa. Rasa hangat yang dimiliki sekoteng berasal dari gula merah dan jahe yang direbus. Masyarakat Jawa menyebut sekoteng “nyokot weteng” yang artinya “menggigit perut” ini karena rasa hangat yang terasa itu tadi guys!.",
         "image": "./images/sekoteng.jpg",
         "images": ["./images/sekoteng.jpg","./images/sekoteng.jpg","./images/sekoteng.jpg"],
-        "type": "baverage",
-        "category": "indonesian-baverage"
+        "type": "beverage",
+        "category": "indonesian-beverage"
     },
     {
         "id": "13",
@@ -126,8 +126,8 @@
         "description": "Wedang ronde paling enak disantap saat udara dingin. Minuman hangat yang populer di Jawa ini biasanya dijual dengan gerobak. Minuman yang identik di Jawa ini ternyata makanan tradisional dari Cina, Tangyuan. Wedang ronde ini juga merupakan modifikasi dari tangyuan.",
         "image": "./images/ronde.jpg",
         "images": ["./images/ronde.jpg","./images/ronde.jpg","./images/ronde.jpg"],
-        "type": "baverege",
-        "category": "indonesian-baverage"
+        "type": "beverage",
+        "category": "indonesian-beverage"
     },
     {
         "id": "14",
@@ -136,8 +136,8 @@
         "description": "Minuman khas betawi ini jarang ditemui karena dikalangan masyarakat Betawi dianggap minuman kuno.Selendang mayang biasanya disajikan ketika acara tertentu, saat lebaran, acara keluarga, arisan dan lainnya. Bahan dasar pembuatan selendang mayang adalah tepung beras. Sedangkan kuahnya terbuat dai daun pandan, gula merah, garam, gula dan air santan. Minuman ini selain menghilangkan dahaga pun mengenyangkan karena porsinya yang cukup banyak.",
         "image": "./images/selendang.jpg",
         "images":[ "./images/selendang.jpg","./images/selendang.jpg","./images/selendang.jpg"],
-        "type": "baverege",
-        "category": "indonesian-baverage"
+        "type": "beverage",
+        "category": "indonesian-beverage"
     },
     {
         "id": "15",
@@ -146,8 +146,8 @@
         "description": "Minuman yang enak disantap saat hari panas ini memang mudah dijumpai di mana pun. Minuman ini terdiri dari alpukat, kelapa muda, nangka, cincau, susu kental manis dan es. Banyak pedagang kaki lima yang berjualan di pinggir trotoar , harganya pun sangat terjangkau.",
         "image": "./images/es%20doger.jpg",
         "images": [ "./images/es%20doger.jpg","./images/es%20doger.jpg","./images/es%20doger.jpg"],
-        "type": "baverege",
-        "category": "indonesian-baverege"
+        "type": "beverage",
+        "category": "indonesian-beverage"
     },
     {
         "id": "16",
@@ -156,8 +156,8 @@
         "description": "Sikhye adalah minuman beras tradisional Korea yang manis seperti tradisional - sangat manis, pada kenyataannya, itu sering disajikan sebagai makanan penutup! Minuman Korea ini mengandung beras yang dimasak, yang memberikan tekstur yang menarik saat Anda sampai ke dasar, dan telah disajikan di Korea selama berabad-abad sebagai akhir tradisional untuk makan.",
         "image": "./images/sikhye.jpg",
         "images":[ "./images/sikhye.jpg","./images/sikhye.jpg","./images/sikhye.jpg"],
-        "type": "baverage",
-        "category": "korean-baverage"
+        "type": "beverage",
+        "category": "korean-beverage"
     },
     {
         "id": "17",
@@ -166,8 +166,8 @@
         "description": "The omija berry dinamai karena perpaduan unik dari rasa (‘omija’ secara harfiah diterjemahkan menjadi lima-rasa), jadi tidak mengherankan bahwa teh yang dibuat dari omija berry juga serbaguna. Meskipun dapat dinikmati sendiri atau dengan madu sebagai pemanis, teh omija juga bisa dibumbui dengan kacang hijau atau bunga untuk mengubahnya menjadi berbagai pukulan.",
         "image": "./images/omija-tea.jpg",
         "images":[ "./images/omija-tea.jpg","./images/omija-tea.jpg","./images/omija-tea.jpg"],
-        "type": "baverage",
-        "category": "korean-baverage"
+        "type": "beverage",
+        "category": "korean-beverage"
     },
     {
         "id": "18",
@@ -176,8 +176,8 @@
         "description": "Teh krisan adalah minuman Korea yang populer (dan luar biasa indah) yang disukai orang banyak karena alasan yang bagus. Untuk membuat teh yang sangat menarik ini, bunga kering direndam dalam madu selama beberapa bulan dan kemudian diseduh dengan air panas, menghasilkan teh ringan dan sedikit manis yang penuh dengan bunga-bunga.",
         "image": "./images/tea.jpg",
         "images":[ "./images/tea.jpg","./images/tea.jpg","./images/tea.jpg"],
-        "type": "baverage",
-        "category": "korean-baverage"
+        "type": "beverage",
+        "category": "korean-beverage"
     },
     {
         "id": "19",
@@ -186,8 +186,8 @@
         "description": "Misagura adalah minuman yang protein shake dingin, misagura banyak variasi rasa dapat mencampur dan mencocokan biji dan kacang kacangan sendiri. Misugaru mudah ditemukan saat Anda bepergian dan keluar, tetapi juga mudah berbaur di rumah jika Anda memiliki blender, es, dan agen pemanis seperti madu atau sirup maple. Karena kandungan proteinnya yang tinggi, misugaru adalah pengganti makanan yang lezat.",
         "image": "./images/misugaru.jpg",
         "images":[ "./images/misugaru.jpg","./images/misugaru.jpg","./images/misugaru.jpg"],
-        "type": "baverage",
-        "category": "korean-baverage"
+        "type": "beverage",
+        "category": "korean-beverage"
     },
     {
         "id": "20",
@@ -196,8 +196,8 @@
         "description": "Sujeonggwa adalah bagian yang sama dengan makanan pencuci mulut dan minuman, dan menyajikan campuran kayu manis, gula merah, jahe, dan kesemek yang lezat yang datang bersama-sama untuk membuat rasa manis yang lezat yang tidak seperti yang lain. Sujeonggwa rasanya seperti musim Jatuh dalam cangkir, tetapi disajikan dingin sehingga Anda juga dapat menikmatinya dengan sangat nyaman melalui musim semi dan musim panas.",
         "image": "./images/sujeonggowa.jpg",
         "images":[ "./images/sujeonggowa.jpg","./images/sujeonggowa.jpg","./images/sujeonggowa.jpg"],
-        "type": "baverage",
-        "category": "korean-baverage"
+        "type": "beverage",
+        "category": "korean-beverage"
     },
     {
         "id": "21",
@@ -207,7 +207,7 @@
         "image": "./images/chong%20shi%20cha.png",
         "images":[ "./images/chong%20shi%20cha.png","./images/chong%20shi%20cha.png","./images/chong%20shi%20cha.png"],
         "type": "beverage",
-        "category": "chinese-baverage"
+        "category": "chinese-beverage"
     },
     {
         "id": "22",
@@ -236,7 +236,7 @@
         "description": "Soy Milk adalah minuman susu kedelai dari hewan namun penuh nialai gizi. Susu kacang kedelai adalah semacam minuman yang dibuat dari kacang kuning, mendapat namanya karena ini berwarna putih kekuningan mirip dengan susu.",
         "image": "./images/soy-milk.jpg",
         "images":[ "./images/soy-milk.jpg","./images/soy-milk.jpg","./images/soy-milk.jpg"],
-        "type": "beverages",
+        "type": "beverage",
         "category": "chinese-beverage"
     },
     {
@@ -248,5 +248,255 @@
         "images":[ "./images/tieguanyin.jpg","./images/tieguanyin.jpg","./images/tieguanyin.jpg"],
         "type": "beverage",
         "category": "chinese-beverage"
+    },
+    {
+        "id": "26",
+        "name": "Bakso Pedas",
+        "slug": "bakso-pedas",
+        "description": "Bakso atau baso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia dan untuk bakso pedas yang ini juga sangat digemari banyak masyarakat karena masyarakat indonesia kalau tidak pedas tidak afdol, biasanya disajikan dengan mie kuning, siomay , tahu, dan pangsit goreng. Bakso sangat banyak diminati saat musim dingin atau hujan, dimalang juga banyak kedai bakso salah satunya bakso presiden di Jl. Batanghari No.5 Rampal Celaket, Klojen, Kota Malang",
+        "image": "./images/bakso.jpg",
+        "images":[ "./images/bakso.jpg","./images/bakso.jpg","./images/bakso.jpg"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "27",
+        "name": "Klepon Legit",
+        "slug": "klepon-legit",
+        "description": "Klepon adalah makanan tradisional yang terbuat dari tepung ketan berbentuk bulat dan berisi gula merah serta biasanya bagian luarnya ditaburi parutan kelapa. Ukuran klepon biasanya sebesar kuning telur serta berwarna hijau muda. Klepon merupakan salah satu dari aneka jajan pasar dan paling banyak disukai karena memiliki sifat yang khas bila dimakan, yaitu akan muncrat gulanya dan rasanya manis, gurih dan lezat. Cara makan klepon adalah satu biji klepon dimakan dalam sekali telan agar gulanya tidak tumpah.",
+        "image": "./images/klepon.jpg",
+        "images":[ "./images/klepon.jpg","./images/klepon.jpg","./images/klepon.jpg"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "28",
+        "name": "Rawon Rampal",
+        "slug": "rawon-rampal",
+        "description": "Ciri khas dari Rawon Rampal juga dari penampilan rawon yang lebih pekat tanpa lemak. Hanya ada kuah dan daging sapi dengan potongan cukup tebal yang empuk. Setiap satu panci yang dibuat selalu dicampur dengan satu kilogram bumbu yang di antaranya adalah campuran keluak, kunyit, bawang putih, bawang merah, jahe, serai, lengkuas, dan jeruk purut. Rawon Rampal ini dapat di jumapi di jl. Paanglima Sudirman 71A Klojen.",
+        "image": "./images/rawon.jpg",
+        "images":[ "./images/rawon.jpg","./images/rawon.jpg","./images/rawon.jpg"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "29",
+        "name": "Sate Lilit",
+        "slug": "sate-lilit",
+        "description": "Sate Lilit adalah sate varian khas Bali. Sate ini terbuat dari daging ayam, daging sapi yang dicincang, kemudian dicampur dengan parutan kelapa, santan, jeruk nipis, bawang merah, dan merica. Sate lilit terlihat lebih unik. Jika sate biasa berupa daging yang dipotong kecil-kecil lalu ditusuk pada sebuah tusuk sate yang kecil. Sementara sate lilit berupa gumpalan adonan daging yang disematkan pada sebatang tusuk sate yang terlihat lebih besar dari tusuk sate biasa.",
+        "image": "./images/sate%20lilit.png",
+        "images":[ "./images/sate%20lilit.png","./images/sate%20lilit.png","./images/sate%20lilit.png"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "30",
+        "name": "Gudeg",
+        "slug": "gudeg",
+        "description": "Gudeg adalah makanan tradisional yang terbuat dari Nangka muda (nangka) yang direbus selama beberapa jam dengan gula kelapa serta santan. Dengan dilengkapi dengan berbagai bumbu tambahan membuat Gudeg menjadi terasa manis dilidah dan memiliki rasa yang khas dan enak sesuai dengan selera masyarakat Jawa pada umumnya. Pada penyajiannya, Gudeg biasa di lengkapi dengan nasi putih, ayam, telur rebus, tahu atau tempe, dan rebusan terbuat dari kulit sapi segar atau lebih dikenal dengan nama sambal goreng krecek.",
+        "image": "./images/gudeg.jpg",
+        "images":[ "./images/gudeg.jpg","./images/gudeg.jpg","./images/gudeg.jpg"],
+        "type": "food",
+        "category": "indonesian-food"
+    },
+    {
+        "id": "31",
+        "name": "Ramen",
+        "slug": "ramen",
+        "description": "Ramyeon atau Ramyun adalah hidangan mi kuah ala Korea. Mi ramyeon dapat dibuat dari mi basah atau mi instan, beberapa merek ramyeon instan selain dikonsumsi di Korea Selatan, ada juga yang diekspor ke luar negeri, seperti ke Tiongkok, Hong Kong, Makau, Jepang, dan Indonesia. Ramyeon Korea umumnya bercita rasa agak pedas. Di Korea Selatan, merek yang menguasai pasar adalah Shin Ramyun.",
+        "image": "./images/ramen.jpg",
+        "images":[ "./images/ramen.jpg","./images/ramen.jpg","./images/ramen.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "32",
+        "name": "Kimchi",
+        "slug": "kimchi",
+        "description": "Kimchi adalah makanan tradisional Korea, salah satu jenis asinan sayur hasil fermentasi yang diberi bumbu pedas. Setelah digarami dan dicuci, sayuran dicampur dengan bumbu yang dibuat dari udang krill, kecap ikan, bawang putih, jahe dan bubuk cabai merah. Sayuran yang paling umum dibuat kimchi adalah sawi putih dan lobak. Di zaman dulu, kimchi diucapkan sebagai chim-chae (Hangul: 침채; Hanja: 沈菜) yang berarti \"sayuran yang direndam.\" Di Korea, kimchi selalu dihidangkan di waktu makan sebagai salah satu jenis banchan yang paling umum. Kimchi juga digunakan sebagai bumbu sewaktu memasak sup kimchi (kimchi jjigae), nasi goreng kimchi (kimchi bokkeumbap), dan berbagai masakan lain.",
+        "image": "./images/kimchi%20korea.jpg",
+        "images":[ "./images/kimchi%20korea.jpg","./images/kimchi%20korea.jpg","./images/kimchi%20korea.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "33",
+        "name": "Tteokbokki",
+        "slug": "tteobokki",
+        "description": "Tteokbokki adalah penganan Korea berupa tteok dari tepung beras yang dimasak dalam bumbu gochujang yang pedas dan manis. Tteok yang dipakai berbentuk batang atau silinder. Penganan ini merupakan makanan rakyat yang banyak dijual di pojangmacha. Pada awalnya, penganan ini berasal dari masakan istana Dinasti Joseon yang disebut gungjung tteokbokki. Pada waktu itu, masakan ini berupa huintteok yang dimasak dengan kecap asin bersama daging sapi, bagogari, kecambah kacang hijau, peterseli, shiitake, wortel, dan bawang bombay.",
+        "image": "./images/tteokbokki.jpg",
+        "images":[ "./images/tteokbokki.jpg","./images/tteokbokki.jpg","./images/tteokbokki.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "34",
+        "name": "Bimbimbap",
+        "slug": "bimbimbap",
+        "description": "Bibimbap adalah masakan Korea berupa semangkuk nasi putih dengan lauk di atasnya berupa sayur-sayuran, daging sapi, telur, dan saus pedas gochujang. Namanya secara harafiah berarti \"nasi campur\" yang berasal dari kata 비빔 (campur) dan 밥 (nasi). Sebelum dimakan, nasi dan lauk diaduk menjadi satu. Bibimbap memiliki variasi yang banyak menurut daerahnya di Korea. Kota Jeonju di Jeolla Utara adalah kota asal variasi bibimbap daerah yang paling terkenal di Korea. \"Jeonju bibimbap\" (nasi campur Jeonju) merupakan bibimbap yang berisi lauk pauk yang paling banyak di Korea.",
+        "image": "./images/bibimbap.jpg",
+        "images":[ "./images/bibimbap.jpg","./images/bibimbap.jpg","./images/bibimbap.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "35",
+        "name": "Gimbap",
+        "slug": "gimbab",
+        "description": "imbap adalah jenis makanan Korea yang terdiri dari nasi yang dibungkus dengan rumput laut. Gimbap populer sebagai makanan yang dibawa piknik, hiking atau aktivitas lain di luar ruangan",
+        "image": "./images/Gimbap.jpg",
+        "images":[ "./images/Gimbap.jpg","./images/Gimbap.jpg","./images/Gimbap.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "36",
+        "name": "Kwetiau",
+        "slug": "kwetiau",
+        "description": "Hampir sama dengan bakmi, kwetiau merupakan mi yang juga banyak peminatnya di Indonesia. Bedanya hanya pada tekstur dan bentuknya saja. Kwetiau memiliki tekstur lebih kenyal dan bentuknya lebih lebar.",
+        "image": "./images/kwetiau.jpg",
+        "images":[ "./images/kwetiau.jpg","./images/kwetiau.jpg","./images/kwetiau.jpg"],
+        "type": "food",
+        "category": "chinese-food"
+    },
+    {
+        "id": "37",
+        "name": "Puyonghai",
+        "slug": "puyonghai",
+        "description": "Puyonghai adalah masakan Tionghoa yang dibuat dari telur yang didadar dengan campuran berupa sayuran,daging, atau makanan laut. Isi campuran bisa berupa cincangan halus daging ayam, daging sapi, daging kepiting, dan sebagainya. Fu yong hai dimakan bersama saus asam manis yang biasanya dibuat dari tomat dan kacang polong, tetapi ada juga saus yang disertai dengan potongan nanas di dalamnya.",
+        "image": "./images/fu-yung-hai.jpg",
+        "images":[ "./images/fu-yung-hai.jpg","./images/fu-yung-hai.jpg","./images/fu-yung-hai.jpg"],
+        "type": "food",
+        "category": "chinese-food"
+    },
+    {
+        "id": "38",
+        "name": "Jiaozi",
+        "slug": "jiaozi",
+        "description": "Jiaozi adalah daging ayam atau udang dan sayuran yang dicincang dan dibungkus lembaran tepung terigu. Adonan kulit dibuat dari campuran tepung terigu, air, dan garam dapur. Makanan ini dimatangkan dengan cara direbus. Di Jepang, makanan serupa disebut gyōza, sementara di Korea disebut mandu. Jiaozi tidak sama dengan pangsit (wonton). Kulit jiaozi lebih tebal dari pangsit. Dari peninggalan Zaman Musim Semi dan Gugur di Cina diketahui bahwa orang pada zaman itu sudah memakan jiaozi.",
+        "image": "./images/jiaozi.jpg",
+        "images":[ "./images/jiaozi.jpg","./images/jiaozi.jpg","./images/jiaozi.jpg"],
+        "type": "food",
+        "category": "chinese-food"
+    },
+    {
+        "id": "39",
+        "name": "Kaoya",
+        "slug": "kaoya",
+        "description": "Kaoya adalah istilah yang digunakan masyarakat Cina untuk menyebut hidangan bebek peking. Masakan tradisional Cina yang satu ini berasal dari kota Beijing dan saat ini telah menyebar hingga ke seluruh dunia. Kaoya atau bebek peking panggang biasa disantap secara langsung dengan diiris halus atau juga disantap bersama kulit pancake khas Cina.",
+        "image": "./images/kaoya.jpg",
+        "images":[ "./images/kaoya.jpg","./images/kaoya.jpg","./images/kaoya.jpg"],
+        "type": "food",
+        "category": "chinese-food"
+    },
+    {
+        "id": "40",
+        "name": "Sanbeji",
+        "slug": "sanbeji",
+        "description": "Sesuai dengan istilahnya sanbeiji yang berarti tiga cangkir, daging ayam dalam hidangan ini dimasak dengan tiga cangkir bumbu yakni secangkir anggur beras, secangkir kecap manis dan secangkir lemak daging babi",
+        "image": "./images/Sanbeiji.jpg",
+        "images":[ "./images/Sanbeiji.jpg","./images/Sanbeiji.jpg","./images/Sanbeiji.jpg"],
+        "type": "food",
+        "category": "chinese-food"
+    },
+    {
+        "id": "41",
+        "name": "Bulgogi",
+        "slug": "Bulgogi",
+        "description": "Bulgogi (bahasa Korea: 불 api, dan 고기 daging) adalah olahan daging asal Korea. Daging yang digunakan antara lain daging sirloin atau bagian daging sapi pilihan. Bumbu bulgogi adalah campuran kecap asin dan gula ditambah rempah lain bergantung pada resep dan daerah di Korea. Sebelum dimakan, daun selada digunakan untuk membungkus bulgogi bersama kimchi, bawang putih, atau bumbu penyedap lain. Di Jepang, makanan yang sejenis disebut Yakiniku.",
+        "image": "./images/bulgogi1.jpg",
+        "images":[ "./images/bulgogi1.jpg","./images/bulgogi1.jpg","./images/bulgogi1.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "42",
+        "name": "Jjajangmyeon",
+        "slug": "Jjajangmyeon",
+        "description": "Jajangmyeon (atau jjajangmyeon) adalah jenis Masakan Korea yaitu mi saus pasta kacang kedelai hitam. Jajangmyeon dipengaruhi kuliner Tionghoa, dan orang Tiongkok biasa menyebutnya Zhajiangmian (炸醬麵). Jajang artinya saus goreng, dan myeon artinya mi.",
+        "image": "./images/jjajangmyeon2.jpg",
+        "images":[ "./images/jjajangmyeon2.jpg","./images/jjajangmyeon2.jpg","./images/jjajangmyeon2.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "43",
+        "name": "Japchae",
+        "slug": "Japchae",
+        "description": "Japchae adalah makanan Korea berupa sohun (dang myeon) yang dicampur dengan berbagai jenis sayuran dan daging sapi. Makanan ini termasuk salah satu banchan, dan dimakan sebagai lauk, terutama dalam pesta dan kesempatan khusus. Sayuran yang digunakan biasanya sayuran yang sedang musim. Japchae ditulis dengan dua aksara hanja, jap (hangul:잡, hanja:雜, dicampur dan diaduk) dan chae (hangul:채, hanja:菜, sayuran).",
+        "image": "./images/Japchae3.jpg",
+        "images":[ "./images/Japchae3.jpg","./images/Japchae3.jpg","./images/Japchae3.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "44",
+        "name": "Miyeok Guk",
+        "slug": "Miyeok Guk",
+        "description": "Miyeokguk (미역국) adalah guk yang bahan utamanya miyeok, (rumput laut coklat; Undaria pinnatifida). Kuah terbuat dari kaldu tulang sapi dan kecap. Menurut tradisi, orang Korea menyajikan sup rumput laut kepada ibu yang baru melahirkan karena dipercaya miyeok dapat memperbanyak asi. Makan sup miyeok juga dilakukan pada hari ulang tahun",
+        "image": "./images/Miyeok-Guk4.jpg",
+        "images":[ "./images/Miyeok-Guk4.jpg","./images/Miyeok-Guk4.jpg","./images/Miyeok-Guk4.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "45",
+        "name": "Tteok",
+        "slug": "Tteok",
+        "description": "Tteok adalah penganan atau kue asal Korea yang dibuat dari serealia, terutama beras atau ketan. Bahan dan cara pembuatan berbeda-beda menurut wilayahnya di Korea. Tteok juga dibuat sebagai kue yang rasanya manis dalam berbagai variasi rasa untuk hari-hari perayaan musim, termasuk perayaan tahun baru Korea.",
+        "image": "./images/Teok5.jpg",
+        "images":[ "./images/Teok5.jpg","./images/Teok5.jpg","./images/Teok5.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "46",
+        "name": "Nakji Bokkeum",
+        "slug": "Nakji Bokkeum",
+        "description": "Makanan ini juga merupakan salah satu olahan laut paling populer di Korea Selatan. Nakji Bokkeum adalah gurita yang digoreng kering dan disajikan bersama tumis sayur-sayuran maupun dimasukkan sebagai topping untuk mie khas Korea. Selain kaya cita rasa, masakan ini sangat digemari pula oleh turis internasional. Nakji Bokkeum memiliki sensasi tersendiri di lidah, terutama dari pasta cabe yang digunakan untuk menumis sayur-sayuran serta gurita tersebut.",
+        "image": "./images/Nakji-Bokkeum6.jpg",
+        "images":[ "./images/Nakji-Bokkeum6.jpg","./images/Nakji-Bokkeum6.jpg","./images/Nakji-Bokkeum6.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "47",
+        "name": "Gogigui",
+        "slug": "Gogigui",
+        "description": "Makanan yang satu ini merupakan makanan pilihan yang bisa kalian coba, karena makanan dengan jenis BBQ khas korea ini memiliki rasa yang sangat lezat. Biasanya makanan bernama Gogigui ini di masak dengan panggangan meja. Dalam membuat Gogigui ini, berbagai jenis daging dan sayur di campur dengan saus kemudian di panggang hingga menghasilkan rasa lezat. Gogigui sangat sering di sajikan di restoran-restoran yang ada di korea, jadi dengan mudah kalian bisa menemukan makanan khas korea bernama Gogigui ini.",
+        "image": "./images/gogigui7.jpg",
+        "images":[ "./images/gogigui7.jpg","./images/gogigui7.jpg","./images/gogigui7.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "48",
+        "name": "Haejangguk",
+        "slug": "Haejangguk",
+        "description": "Haejangguk (해장국) adalah jenis guk. Pada zaman dahulu, haejangguk dimakan untuk menyadarkan diri dari rasa mabuk akibat minum sul, sehingga dinamakan juga sulguk (\"sup minuman keras\"). Lama-kelamaan, haejangguk dikenal sebagai hidangan populer di malam hari. Haejangguk tertulis dalam buku masak Dinasti Joseon tahun 1600-an dengan nama seongjutang yang disantap guna menyadarkan orang dari mabuk. Walau berasal dari Joseon, resep aslinya tak diketahui.",
+        "image": "./images/Haejangguk8.jpg",
+        "images":[ "./images/Haejangguk8.jpg","./images/Haejangguk8.jpg","./images/Haejangguk8.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "49",
+        "name": "Jjukumi",
+        "slug": "Jjukumi",
+        "description": "Korea Selatan memang surga bagi para pecinta seafood. Ya, masyarakat di sini sangat kreatif dalam mengolah berbagai bahan laut menjadi sebuah masakan yang sangat lezat. Salah satunya adalah jjukumi, yang terbuat dari gurita berukuran kecil yang dimasak dengan api besar dalam rendaman saus gochugang yang sangat lezat. Saking populernya, di Korea Selatan bahkan ada sebuah lokasi yang diberi nama Jjukumi Street, di mana ada ratusan restoran yang menyajikan masakan ini sebagai menu utama. Tentu saja, tempat ini wajib dikunjungi jika kelak anda berkesempatan mengunjungi Korea Selatan.",
+        "image": "./images/jjukumi9.jpg",
+        "images":[ "./images/jjukumi9.jpg","./images/jjukumi9.jpg","./images/jjukumi9.jpg"],
+        "type": "food",
+        "category": "korean-food"
+    },
+    {
+        "id": "50",
+        "name": "Jeongol",
+        "slug": "Jeongol",
+        "description": "Jeongol adalah makanan Korea berupa berbagai sup yang direbus di dalam panci besar, dan dihidangkan di tengah-tengah meja untuk dimakan bersama. Dibandingkan dengan jjigae yang hanya berisi satu jenis bahan utama, bahan untuk isi jeongol biasanya jauh lebih beragam. Berbeda dari jjigae yang bermula dari makanan rakyat, jeongol seperti halnya gujeolpan bermula dari makanan untuk kalangan bangsawan atau anggota keluarga kerajaan.",
+        "image": "./images/Jeongol10.jpg",
+        "images":[ "./images/Jeongol10.jpg","./images/Jeongol10.jpg","./images/Jeongol10.jpg"],
+        "type": "food",
+        "category": "korean-food"
     }
 ]
